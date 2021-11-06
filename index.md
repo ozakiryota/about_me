@@ -4,7 +4,7 @@ title: Who is Ryota Ozaki?
 description: Profile
 ---
 
-# Ryota OZAKI is:
+# Ryota ozaki is:
 - a robotics researcher/engineer
 - with a master's degree in engineering
 
