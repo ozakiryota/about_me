@@ -1,7 +1,7 @@
 ---
 layout: modified
-title: Publications
-description: null
+title: Who is Ryota Ozaki?
+description: Publications
 ---
 
 # Publications
