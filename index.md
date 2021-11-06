@@ -32,12 +32,25 @@ C, C++, Python, ROS, PyTorch, Docker
 ## Education
 - 2015/04 - 2019/03　明治大学 理工学部 卒業
   - 2017/08 - 2018/01　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
-  - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
 - 2019/04 - 2021/03　明治大学 理工学研究科 修了
-  - ロボット工学研究室（Autonomous Mobile Systems Laboratory）
+  - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
 
 ## Publications
+<!--
+- Journal paper x 5
+- Conference paper x 9
+- Other x 3
 
+Major works:
+- Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.?, No.?, 2021/?/? (in press).
+- 尾崎亮太，黒田洋司，「視覚画像と環境の形状を利用するリアルタイム自己姿勢推定」，日本機械学会論文集，Vol.87，No.903，pp.21-00098，2021/11/25（本公開予定）．
+- Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," IEEE Robotics and Automation
+Letters (RA-L) with ICRA-2021 option, Vol.6, No.2, pp.1737-1744, 2021/2/19.
+- Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with Global Planar Features in Artificial Environments," Proc. of 2020 IEEE/SICE International Symposium on System Integrations (SII 2020), pp.531-535, 2020/1/14.
+- 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，日本機械学会論文集，Vol.85，No.875，pp.19-00065，2019/7/25．
+
+[>> See full list of publication](https://ozakiryota.github.io/about_me/publication)
+-->
 ### Journals
 - Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.?, No.?, 2021/?/? (in press).
 - 尾崎亮太，黒田洋司，「視覚画像と環境の形状を利用するリアルタイム自己姿勢推定」，日本機械学会論文集，Vol.87，No.903，pp.21-00098，2021/11/25（本公開予定）．
