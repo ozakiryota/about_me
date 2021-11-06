@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication
-description: null
+permalink: https://ozakiryota.github.io/about_me_draft/publication.html
 ---
 
 # Publications
