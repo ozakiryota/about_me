@@ -4,17 +4,17 @@ title: Who is Ryota Ozaki?
 description: Profile
 ---
 
-# Ryota Ozaki is:
+## Ryota Ozaki is:
 - a robotics researcher/engineer
 - with a master's degree in engineering
 
-# Research fields
+## Research fields
 Mobile robotics, Autonomous mobile system, Deep learning, Self-localization, SLAM, IMU, LiDAR, Camera ...
 
-# Programming skills (languages, frameworks, platforms, ...)
+## Programming skills (languages, frameworks, platforms, ...)
 C, C++, Python, ROS, PyTorch, Docker
 
-# Certification
+## Certification
 - [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
 - TOEIC Listening & Reading: 865 points
 - TOEFL iBT: 62 points
@@ -24,22 +24,22 @@ C, C++, Python, ROS, PyTorch, Docker
 - 車両系建設機械（整地等）運転
 - 普通自動車第一種運転免許
 
-# Awards
+## Awards
 - 2021/03　[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
 - 2019/03　[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-18.pdf)
 - 2018/10　[長谷川久夫賞卒業研究中間発表会優秀発表賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
 - 2017/04　[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
 
-# Education
+## Education
 - 2015/04 - 2019/03　明治大学 理工学部 卒業
   - 2017/08 - 2018/01　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
   - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
 - 2019/04 - 2021/03　明治大学 理工学研究科 修了
   - ロボット工学研究室（Autonomous Mobile Systems Laboratory）
 
-# Publications
+## Publications
 
-## Journals
+### Journals
 - Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.?, No.?, 2021/?/? (in press).
 - 尾崎亮太，黒田洋司，「視覚画像と環境の形状を利用するリアルタイム自己姿勢推定」，日本機械学会論文集，Vol.87，No.903，pp.21-00098，2021/11/25（本公開予定）．
   - [J-STAGE（早期公開）](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_21-00098/_article/-char/ja)
@@ -55,7 +55,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)
   - [PDF](https://ozakiryota.github.io/about_me/papers/transjsme_2019_07.pdf)
 
-## International conferences (w/ peer review)
+### International conferences (w/ peer review)
 - Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   - [Program](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_1.html#tudt19_03)
   - [PDF](https://ozakiryota.github.io/about_me/papers/icra_2021.pdf)
@@ -68,7 +68,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [IEEE Xplore](https://ieeexplore.ieee.org/document/9026222)
   - [PDF](https://ozakiryota.github.io/about_me/papers/sii_2020.pdf)
 
-## Domestic conferences (w/ peer review)
+### Domestic conferences (w/ peer review)
 - 尾崎亮太，黒田洋司，「風景知識を学習するカメラ-LiDAR-DNNによる自己姿勢推定」，第26回ロボティクスシンポジア，pp.249-250，2021/3/17．
   - [Program](http://www.robotics-symposia.org/26th/26th_files/Programme_26RS.pdf#page=9)
   - [PDF](https://ozakiryota.github.io/about_me/papers/robosym_2021.pdf)
@@ -79,7 +79,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [Program](http://www.robotics-symposia.org/24th/24th_files/rs24-program_f.pdf#page=13)
   - [PDF](https://ozakiryota.github.io/about_me/papers/robosym_2019.pdf)
 
-## Domestic conferences (w/o peer review)
+### Domestic conferences (w/o peer review)
 - 尾崎亮太，黒田洋司，「人工環境の平面をランドマークとして用いる EKF-SLAM」，第20回計測自動制御学会システムインテグレーション部門講演会（SI2019），pp.165-166，2019/12/12．
   - [Program](https://www.sice-si.org/conf/si2019/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%B3%E7%B4%B0_%E8%A8%82%E6%AD%A3%E7%89%88(20191213).pdf#page=18)
   - [PDF](https://ozakiryota.github.io/about_me/papers/si_2019.pdf)
@@ -90,7 +90,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [Program](https://www.jsme.or.jp/event/2018-33222/)
   - [PDF](https://ozakiryota.github.io/about_me/papers/kantojsme_2019.pdf)
 
-## Others
+### Others
 - 尾崎亮太，「風景知識を学習するDNNを用いたリアルタイム自己姿勢推定」，2020年度修士論文，2021/2/25．
   - [PDF](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf)
 - Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with global planar features in artificial environments," The Fourteenth International Symposium on Mechanics, Aerospace and Informatics Engineering 2019 (ISMAI-14), pp. 215-218, 2019/9/4.
