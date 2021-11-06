@@ -1,6 +1,5 @@
 ---
 layout: modified
-title: Who is Ryota Ozaki?
 description: Profile
 ---
 
