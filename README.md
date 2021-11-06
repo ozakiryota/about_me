@@ -1,5 +1,5 @@
 # about_me
-https://ozakiryota.github.io/about_me_draft/
+https://ozakiryota.github.io/about_me/
 
 ## Edit
 - [/index.md](https://github.com/ozakiryota/about_me_draft/blob/master/index.md)
