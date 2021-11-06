@@ -1,6 +1,6 @@
 ---
 layout: modified
-description: null
+description: Home
 ---
 
 ## Ryota Ozaki is:
