@@ -39,7 +39,7 @@ C, C++, Python, ROS, PyTorch, Docker
 <!--
 - Journal paper x 5
 - Conference paper x 9
-- Other x 3
+- Other x 4
 
 Major works:
 - Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.?, No.?, 2021/?/? (in press).
