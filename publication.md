@@ -1,6 +1,6 @@
 ---
 layout: modified
-title: Who is Ryota Ozaki?
+title: Publications
 description: null
 ---
 
