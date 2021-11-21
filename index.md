@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Top
+description: Profile
 ---
 
 ## Ryota Ozaki is:
