@@ -58,8 +58,8 @@ Letters (RA-L) with ICRA-2021 option, Vol.6, No.2, pp.1737-1744, 2021/2/19.
 -->
 ### Journals
 - Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.?, No.?, 2021/?/? (in press).
-- 尾崎亮太，黒田洋司，「視覚画像と環境の形状を利用するリアルタイム自己姿勢推定」，日本機械学会論文集，Vol.87，No.903，pp.21-00098，2021/11/25（本公開予定）．
-  - [J-STAGE（早期公開）](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_21-00098/_article/-char/ja)
+- 尾崎亮太，黒田洋司，「視覚画像と環境の形状を利用するリアルタイム自己姿勢推定」，日本機械学会論文集，Vol.87，No.903，pp.21-00098，2021/11/25．
+  - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/87/903/87_21-00098/_article/-char/ja)
 - Ryota Ozaki and Yoji Kuroda, "EKF-based self-attitude estimation with DNN learning landscape information," ROBOMECH Journal, Vol.8, No.9, 2021/3/6.
   - [Springer](https://doi.org/10.1186/s40648-021-00196-3)
   - [PDF](https://ozakiryota.github.io/about_me/papers/robomechjournal_2021_03.pdf)
