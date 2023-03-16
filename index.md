@@ -57,10 +57,6 @@ Letters (RA-L) with ICRA-2021 option, Vol.6, No.2, pp.1737-1744, 2021/2/19.
 
 [>> See the full list of my publication](https://ozakiryota.github.io/about_me/publication)
 -->
-### Patents
-- Requesting.
-- Requesting.
-- Requesting.
 
 ### Journals
 - Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.8, No.26, 10.1186/s40648-021-00213-5, 2021/12/20.
@@ -125,3 +121,8 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [PDF](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)
 - 恩田和弥，大石朋孝，有馬純平，尾崎亮太，隼田駿大，黒田洋司，「Edge-node Map及び交差点形状マッチングを用いたナビゲーションシステムの開発」，つくばチャレンジシンポジウム，pp.101-106，2019/1/14．
   - [PDF](https://ozakiryota.github.io/about_me/papers/tsukubachallenge_2018.pdf)
+
+## Patents
+- Requesting.
+- Requesting.
+- Requesting.
