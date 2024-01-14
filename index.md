@@ -32,9 +32,9 @@ C, C++, Python, ROS, PyTorch, Docker
 - 2017/04　[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
 
 ## Education
-- 2015/04 - 2019/03　明治大学 理工学部 卒業
+- 2015/04 - 2019/03　明治大学 理工学部 卒業（BEng in Mechanical Engineering at Meiji University, Japan）
   - 2017/08 - 2018/01　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
-- 2019/04 - 2021/03　明治大学 理工学研究科 修了
+- 2019/04 - 2021/03　明治大学 理工学研究科 修了（MEng in Mechanical Engineering at Meiji University, Japan）
   - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
 
 ## Publications
