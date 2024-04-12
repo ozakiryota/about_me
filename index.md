@@ -16,8 +16,8 @@ C, C++, Python, ROS, PyTorch, Docker
 
 ## Certification
 - [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
-- TOEIC Listening & Reading: 865 points
-- TOEFL iBT: 62 points
+- TOEIC Listening & Reading: 865 points, 2019
+- TOEFL iBT: 62 points, 2015
 - 実用英語技能検定2級
 - 日本漢字能力検定2級
 - 日本商工会議所簿記検定3級
