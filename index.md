@@ -110,6 +110,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [Program](https://www.sice-si.org/conf/si2019/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%B3%E7%B4%B0_%E8%A8%82%E6%AD%A3%E7%89%88(20191213).pdf#page=18)
   - [PDF](https://ozakiryota.github.io/about_me/papers/si_2019.pdf)
 - 尾崎亮太，黒田洋司，「鉛直壁面を用いた移動ロボットのための自己姿勢推定」，ロボティクス・メカトロニクス 講演会 2019（ROBOMECH2019），2019/6/6．
+  - [J-STAGE] (https://doi.org/10.1299/jsmermd.2019.1P2-S04)
   - [Program](http://robomech.org/2019/wp-content/uploads/2019/05/RM19_program_v05.pdf#page=46)
   - [PDF](https://ozakiryota.github.io/about_me/papers/robomech_2019.pdf)
 - 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いた6DoF位置姿勢推定」，関東学生会第58回学生員卒業研究発表講演会，2019/3/18．
