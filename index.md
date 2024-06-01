@@ -129,10 +129,11 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
 
 ## Patents
 - Requesting.
-  - https://ipforce.jp/patent-jp-P_A1-2024-52162
+  - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-52162)
 - Requesting.
-  - https://ipforce.jp/patent-jp-P_A1-2024-52332
+  - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-52332)
 - Requesting.
+  - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-70473)
 - Requesting.
 - Requesting.
 - Requesting.
