@@ -102,9 +102,9 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [PDF](https://ozakiryota.github.io/about_me/papers/robosym_2019.pdf)
 
 ### Domestic conferences (w/o peer review)
-- 尾崎亮太，...，「シミュレータを用いたブルドーザの生産性評価」，ロボティクス・メカトロニクス 講演会 2024（ROBOMECH2024），2024/5/31発表予定．
+- 尾崎亮太，中山裕，守翔太，本村拓斗，「シミュレータを用いたブルドーザの生産性評価」，ロボティクス・メカトロニクス 講演会 2024（ROBOMECH2024），2024/5/31．
   - [Program](https://robomech.org/2024/wp-content/uploads/2024/04/Robomech2024PG-0422_01.pdf#page=49)
-- 沢藤光，尾崎亮太，...，「内界センサを用いたブルドーザの自己位置推定への機械学習の応用」，2024年度 人工知能学会全国大会（第38回）（JSAI2024），2024/5/31発表予定．
+- 沢藤光，尾崎亮太，本村拓斗，松田豊久，遠嶋雅徳，内田絢斗，白川真一，「内界センサを用いたブルドーザの自己位置推定への機械学習の応用」，2024年度 人工知能学会全国大会（第38回）（JSAI2024），2024/5/31．
   - [Program](https://confit.atlas.jp/guide/event/jsai2024/subject/4K3-GS-10-03/advanced)
 - 尾崎亮太，黒田洋司，「人工環境の平面をランドマークとして用いる EKF-SLAM」，第20回計測自動制御学会システムインテグレーション部門講演会（SI2019），pp.165-166，2019/12/12．
   - [Program](https://www.sice-si.org/conf/si2019/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%B3%E7%B4%B0_%E8%A8%82%E6%AD%A3%E7%89%88(20191213).pdf#page=18)
