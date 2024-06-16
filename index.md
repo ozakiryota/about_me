@@ -128,11 +128,14 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [PDF](https://ozakiryota.github.io/about_me/papers/tsukubachallenge_2018.pdf)
 
 ## Patents
-- Requesting.
+- "Control system for work machine and control method for work machine," Pending.
+  - [English](https://patents.google.com/patent/WO2024070520A1/en)
   - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-52162)
-- Requesting.
+- "Work site detection system, and work site detection method," Pending.
+  - [English](https://patents.google.com/patent/WO2024070558A1/en)
   - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-52332)
-- Requesting.
+- "System for creating current landform data of work site and method for creating current landform data of work site," Pending.
+  - [English](https://patents.google.com/patent/WO2024101391A1/en)
   - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-70473)
 - Requesting.
 - Requesting.
