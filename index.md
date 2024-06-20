@@ -78,6 +78,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [PDF](https://ozakiryota.github.io/about_me/papers/transjsme_2019_07.pdf)
 
 ### International conferences (w/ peer review)
+- Ryota Ozaki, ..., "," Proc. of The 2024 Annual Conference of the IEEE Industrial Electronics Society (IECON 2024), 2024/11, accepted.
 - Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   - [Program](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_1.html#tudt19_03)
   - [PDF](https://ozakiryota.github.io/about_me/papers/icra_2021.pdf)
