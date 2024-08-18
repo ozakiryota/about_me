@@ -1,7 +1,7 @@
 ---
 layout: modified
-title:
-description: Japanese / [English]()
+title: Profile
+description: Japanese / [English](https://ozakiryota.github.io/about_me/publication)
 ---
 
 ## Ryota Ozaki is:
