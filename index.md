@@ -1,8 +1,11 @@
 ---
 layout: modified
 title: Profile
-description: Japanese / [English](https://ozakiryota.github.io/about_me/publication)
+description: Profile uplated August 8, 2024
 ---
+
+{: align="center"}
+Japanese / English
 
 ## Ryota Ozaki is:
 - a robotics researcher/engineer
