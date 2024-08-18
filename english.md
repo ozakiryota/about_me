@@ -10,21 +10,21 @@ description: Profile (Last Updated on August 8, 2024)
 </div>
 
 ## Education
-- 04/2019 - 03/2021   Meiji University, Japan
+- 04/2019 - 03/2021&emsp;Meiji University, Japan
   - MEng in Mechanical Engineering
   - GPA: 4.0/4.0
   - Lab: [Autonomous Mobile Systems Laboratory](https://amslab.tech/)
   - Thesis: [Real-Time Self-Posture Estimation Using DNN Learning Landscape Knowledge](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf) (written in Japanese)
-- 08/2017 - 01/2018   California State University, Long Beach, USA
+- 08/2017 - 01/2018&emsp;California State University, Long Beach, USA
   - Exchange Program in Mechanical & Aerospace Engineering
-- 04/2015 - 03/2019   Meiji University, Japan  
+- 04/2015 - 03/2019&emsp;Meiji University, Japan  
   - BEng in Mechanical Engineering
   - GPA: 3.75/4.0
   - Lab: [Autonomous Mobile Systems Laboratory](https://amslab.tech/)
   - Thesis: [Real-Time 6DoF Pose Estimation Using Relative Posture with Respect to Building Walls](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf) (written in Japanese)
 
 ## Professional Experience
-- 04/2021 - Present  Komatsu Ltd., Japan
+- 04/2021 - Present&emsp;Komatsu Ltd., Japan
   - Experimental development of obstacle detection system for dump trucks using cameras.
   - Development of obstacle detection system for dump trucks using LiDARs and radars
   - Research of odometry estimation system for bulldozers using machine learning
@@ -38,13 +38,13 @@ description: Profile (Last Updated on August 8, 2024)
 * C, C++, Python, ROS, PyTorch, Docker
 
 ## Awards
-- 03/2021   [JSME Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/)  
+- 03/2021&emsp;[JSME Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/)  
 Given to one student who published the most papers in each department from The Japan Society of Mechanical Engineers (JSME).
-- 03/2019   [JSME Hatakeyama Award](https://www.jsme.or.jp/archive/award/shou4-18.pdf)  
+- 03/2019&emsp;[JSME Hatakeyama Award](https://www.jsme.or.jp/archive/award/shou4-18.pdf)  
 Given to one student who earned the most credits in each department from The Japan Society of Mechanical Engineers (JSME).
-- 03/2018   [Hasegawa Hisao Award for The Best Presentation of Bachelor’s Thesis](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)  
+- 03/2018&emsp;[Hasegawa Hisao Award for The Best Presentation of Bachelor’s Thesis](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)  
 Given to three students in each department from Meiji University.
-- 04/2017   [Hasegawa Hisao Award for Outstanding Academic Achievement](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)  
+- 04/2017&emsp;[Hasegawa Hisao Award for Outstanding Academic Achievement](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)  
 Given to one student in each department from Meiji University.
 
 ## Publications
