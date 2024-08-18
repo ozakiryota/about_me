@@ -1,18 +1,13 @@
 ---
 layout: modified
 title: Profile
-description: Profile (updated last on August 8, 2024)
+description: Profile (Last Updated on August 8, 2024)
 ---
 
 {: align="center"}
 <div style="font-size: 1.5em">
 Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 </div>
-
-
-## Ryota Ozaki is:
-- a robotics researcher/engineer
-- with a master's degree in engineering
 
 ## Research fields
 Mobile robotics, Autonomous mobile system, Deep learning, Self-localization, SLAM, IMU, LiDAR, Camera ...
