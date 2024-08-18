@@ -6,7 +6,7 @@ description: Profile uplated on August 8, 2024
 
 {: align="center"}
 <div style="font-size: 2em">
-Japanese / [English](https://ozakiryota.github.io/about_me/publication)
+Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 </div>
 
 
