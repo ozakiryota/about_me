@@ -1,7 +1,7 @@
 ---
 layout: modified
-title: Profile
-description: Profile
+title: Japanese / English[(https://ozakiryota.github.io/about_me/english)]
+description: Last Update: August 8, 2024
 ---
 
 ## Ryota Ozaki is:
