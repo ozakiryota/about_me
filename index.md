@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile uplated on August 8, 2024
+description: Last update: August 8, 2024
 ---
 
 {: align="center"}
