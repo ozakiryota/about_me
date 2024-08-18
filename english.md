@@ -50,12 +50,13 @@ Given to one student in each department from Meiji University.
 ## Publications
 ### Journals
 - Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "???," *Journal of Field Robotics*, 2024 (in peer review).
-- <u>Ryota Ozaki</u> and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," *IEEE Robotics and Automation Letters (RA-L)*, Vol.6, No.2, pp.1737-1744, 2021.
+- <u>Ryota Ozaki</u> and Yoji Kuroda, "[EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities](https://ieeexplore.ieee.org/document/9359333)," *IEEE Robotics and Automation Letters (RA-L)*, Vol.6, No.2, pp.1737-1744, 2021.
+  - [Video Abstract](https://photos.app.goo.gl/Sykqoau5MabDpg1i6)
   - This was also presented in the *2021 IEEE International Conference on Robotics and Automation (ICRA 2021)*.
-- <u>Ryota Ozaki</u>, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," *ROBOMECH Journal*, Vol.8, No.26, 2021.
-- <u>Ryota Ozaki</u> and Yoji Kuroda, "Real-time self-attitude estimation using visual images and/or structures of the environments," *Transactions of the JSME (in Japanese)*, Vol.87, No.903, pp.21-00098, 2021 (in Japanese).
-- <u>Ryota Ozaki</u> and Yoji Kuroda, "EKF-based self-attitude estimation with DNN learning landscape information," *ROBOMECH Journal*, Vol.8, No.9, 2021.
-- <u>Ryota Ozaki</u> and Yoji Kuroda, "Real-time 6DoF localization with relative poses to walls of buildings," *Transactions of the JSME (in Japanese)*, Vol.85, No.875, pp.19-00065, 2019 (in Japanese).
+- <u>Ryota Ozaki</u>, Naoya Sugiura and Yoji Kuroda, "[LiDAR DNN based self-attitude estimation with learning landscape regularities](https://robomechjournal.springeropen.com/articles/10.1186/s40648-021-00213-5)," *ROBOMECH Journal*, Vol.8, No.26, 2021.
+- <u>Ryota Ozaki</u> and Yoji Kuroda, "[Real-time self-attitude estimation using visual images and/or structures of the environments](https://www.jstage.jst.go.jp/article/transjsme/87/903/87_21-00098/_article/-char/en)," *Transactions of the JSME (in Japanese)*, Vol.87, No.903, pp.21-00098, 2021 (in Japanese).
+- <u>Ryota Ozaki</u> and Yoji Kuroda, "[EKF-based self-attitude estimation with DNN learning landscape information](https://doi.org/10.1186/s40648-021-00196-3)," *ROBOMECH Journal*, Vol.8, No.9, 2021.
+- <u>Ryota Ozaki</u> and Yoji Kuroda, "[Real-time 6DoF localization with relative poses to walls of buildings](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/en)," *Transactions of the JSME (in Japanese)*, Vol.85, No.875, pp.19-00065, 2019 (in Japanese).
 
 ### International Conferences (w/ peer review)
 - <u>Ryota Ozaki</u>, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade control for bulk dozer push by bulldozer using reinforcement learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, 2024 (accepted).
