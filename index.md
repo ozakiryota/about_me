@@ -1,7 +1,7 @@
 ---
 layout: modified
-title: test1
-description: test2
+title:
+description: Japanese / [English]()
 ---
 
 ## Ryota Ozaki is:
