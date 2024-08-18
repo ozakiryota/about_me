@@ -1,6 +1,6 @@
 ---
 layout: modified
-title: Japanese / English[(https://ozakiryota.github.io/about_me/english)]
+title: Japanese / [English](https://ozakiryota.github.io/about_me/english)
 description: Last Update: August 8, 2024
 ---
 
