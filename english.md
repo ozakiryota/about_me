@@ -26,21 +26,21 @@ description: Profile (Last Updated on August 8, 2024)
 ## Professional Experience
 - Apr. 2021 - Present&emsp;Komatsu Ltd., Japan  
   Automation System Engineer/Researcher 
-  - Developing obstacle detection system for dump trucks using cameras
-  - Developing obstacle detection system for dump trucks using LiDARs and radars
-  - Researching blade control system for bulldozers using reinforcement learning
-  - Researching odometry estimation system for bulldozers using machine learning
-  - Developed obstacle detection system for bulldozers using LiDARs and radars
-  - Developed mapping system for bulldozers using GNSS and LiDARs
+  - Developed obstacle detection system for dump trucks using cameras.
+  - Developed obstacle detection system for dump trucks using LiDARs and radars.
+  - Developed blade control system for bulldozers using reinforcement learning.
+  - Developed odometry estimation system for bulldozers using machine learning.
+  - Developed obstacle detection system for bulldozers using LiDARs and radars.
+  - Developed mapping system for bulldozers using GNSS and LiDARs.
 
 ## Teaching Experience
 - Apr. 2019 - Sep. 2019&emsp;Meiji University, Japan  
   Teaching Assistant: Mechanical Engineering Experiments 2
 
 ## Awards
-- Mar. 2021&emsp;[JSME Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/)  
+- Mar. 2021&emsp;[Japan Society of Mechanical Engineers (JSME) Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/)  
 Given to one student who published the most papers in each department from The Japan Society of Mechanical Engineers (JSME).
-- Mar. 2019&emsp;[JSME Hatakeyama Award](https://www.jsme.or.jp/archive/award/shou4-18.pdf)  
+- Mar. 2019&emsp;[Japan Society of Mechanical Engineers (JSME) Hatakeyama Award](https://www.jsme.or.jp/archive/award/shou4-18.pdf)  
 Given to one student who earned the most credits in each department from The Japan Society of Mechanical Engineers (JSME).
 - Mar. 2018&emsp;[Hasegawa Hisao Award for The Best Presentation of Bachelor’s Thesis](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)  
 Given to three students in each department from Meiji University.
