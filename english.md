@@ -17,6 +17,7 @@ description: Profile (Last Updated on August 8, 2024)
   - Thesis: "[Real-Time Self-Posture Estimation Using DNN Learning Landscape Knowledge](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf)" (written in Japanese)
 - Aug. 2017 - Jan. 2018&emsp;California State University, Long Beach, USA
   - Exchange Program in Mechanical & Aerospace Engineering
+  - GPA: 3.0/4.0
 - Apr. 2015 - Mar. 2019&emsp;Meiji University, Japan  
   - BEng in Mechanical Engineering
   - GPA: 3.75/4.0
