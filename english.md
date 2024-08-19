@@ -89,11 +89,11 @@ Given to one student in each department from Meiji University.
 - Kazuya Onda, Tomotaka Oishi, Jumpei Arima, <u>Ryota Ozaki</u>, Toshihiro Hayata, and Yoji Kuroda, "Development of navigation system using Edge-Node Map and intersection shape matching," *Tsukuba Challenge Symposium*, pp.101-106 , Jan. 19, 2019 (in Japanese).
 
 ## Patents
-- <u>Ryota Ozaki</u>, ..., (Undisclosed), Pending.
-- <u>Ryota Ozaki</u>, ..., (Undisclosed), Pending.
-- <u>Ryota Ozaki</u>, ..., (Undisclosed), Pending.
-- <u>Ryota Ozaki</u>, ..., (Undisclosed), Pending.
-- <u>Ryota Ozaki</u>, ..., (Undisclosed), Pending.
+- <u>Ryota Ozaki</u>, and Takuto Motomura, "(UNDISCLOSED)," Pending.
+- <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "(UNDISCLOSED)," Pending.
+- <u>Ryota Ozaki</u>, Toyohisa Matsuda, and Takuto Motomura, "(UNDISCLOSED)," Pending.
+- <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "(UNDISCLOSED)," Pending.
+- <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "(UNDISCLOSED)," Pending.
 - Masataka Ozaki, Yoshihiro Tagawa, and <u>Ryota Ozaki</u>, "[System for creating current landform data of work site and method for creating current landform data of work site](https://patents.google.com/patent/WO2024101391A1/en)," Pending.
 - Masataka Ozaki, <u>Ryota Ozaki</u>, and Shoma Sato, "[Work site detection system, and work site detection method](https://patents.google.com/patent/WO2024070558A1/en)," Pending.
 - Masataka Ozaki, Toshihide Mineushiro, <u>Ryota Ozaki</u>, and Takuto Motomura, "[Control system for work machine and control method for work machine](https://patents.google.com/patent/WO2024070520A1/en)," Pending.
