@@ -49,6 +49,7 @@ Given to one student in each department from Meiji University.
 
 ## Scholarship
 - 04/2019 - 03/2021&emsp;[Exemption from Return for Particularly Outstanding Achievement](https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/index.html), Japan Student Services Organization (JASSO)
+- 04/2019 - 03/2021&emsp;Graduate Research Encouragement Scholarship, Meiji University
 - 04/2017 - 03/2018&emsp;Academic Achievement Scholarship, Meiji University
 
 ## Keywords
