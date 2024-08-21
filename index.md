@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on August 8, 2024)
+description: Profile (Last Updated on August 22, 2024)
 ---
 
 {: align="center"}
@@ -9,13 +9,41 @@ description: Profile (Last Updated on August 8, 2024)
 Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 </div>
 
-## Research fields
-Mobile robotics, Autonomous mobile system, Deep learning, Self-localization, SLAM, IMU, LiDAR, Camera ...
+## 学歴
+- 2019/04 - 2021/03&emsp;明治大学 理工学研究科 機械工学専攻 修了
+  - 修士（工学）
+  - GPA: 4.0/4.0
+  - 指導教員: 黒田洋司 教授 ([ロボット工学研究室](https://amslab.tech/))
+  - 修士論文: "[風景知識を学習するDNNを用いたリアルタイム自己姿勢推定](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf)"
+- 2017/08 - 2018/01&emsp;California State University, Long Beach, USA
+  - 交換留学 in Mechanical & Aerospace Engineering
+  - GPA: 3.0/4.0
+- 2015/04 - 2019/03&emsp;明治大学 理工学部 機械工学科 卒業
+  - 学士（工学）
+  - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
+  - GPA: 3.75/4.0
+  - 指導教員: 黒田洋司 教授 ([ロボット工学研究室](https://amslab.tech/))
+  - 学士論文: "[建造物の壁に対する相対姿勢を用いた6DoF位置姿勢推定](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)"
 
-## Programming skills (languages, frameworks, platforms, ...)
-C, C++, Python, ROS, PyTorch, Docker
+## 職歴
+作成中
 
-## Certification
+## 指導経験
+- 2019/04 - 2019/09&emsp;明治大学  
+  Teaching Assistant: 機械工学実験2
+
+## 表彰
+- 2021/03&emsp;[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
+- 2019/03&emsp;[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-18.pdf)
+- 2018/10&emsp;[長谷川久夫賞卒業研究中間発表会優秀発表賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
+- 2017/04&emsp;[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
+
+## 奨学金
+- 2019/04 - 2021/03&emsp;[特に優れた業績による返還免除](https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/index.html), *日本学生支援機構 (JASSO)*
+- 2019/04 - 2021/03&emsp;大学院研究奨励奨学金B, *明治大学*
+- 2017/04 - 2018/03&emsp;学業奨励給費奨学金, *明治大学*
+
+## 資格
 - [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
 - TOEIC Listening & Reading: 865 points, 2019
 - TOEFL iBT: 62 points, 2015
@@ -26,19 +54,12 @@ C, C++, Python, ROS, PyTorch, Docker
 - 第三級陸上特殊無線技士
 - 普通自動車第一種運転免許
 
-## Awards
-- 2021/03　[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
-- 2019/03　[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-18.pdf)
-- 2018/10　[長谷川久夫賞卒業研究中間発表会優秀発表賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
-- 2017/04　[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
+## 興味＆スキル
+* Autonomous Robotics, Machine learning, Self-localization, SLAM, Reinforcement Learning, Object Detection
+* IMU, LiDAR, Camera, GNSS, Mining Machinery (e.g. Bulldozer, Dump Truck)
+* C/C++, Python, ROS, PyTorch, Docker
 
-## Education
-- 2015/04 - 2019/03　明治大学 理工学部 卒業（BEng in Mechanical Engineering at Meiji University, Japan）
-  - 2017/08 - 2018/01　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
-- 2019/04 - 2021/03　明治大学 理工学研究科 修了（MEng in Mechanical Engineering at Meiji University, Japan）
-  - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
-
-## Publications
+## 研究業績
 <!--
 - Journal paper x 5
 - Conference paper x 9
@@ -59,7 +80,7 @@ Letters (RA-L) with ICRA-2021 option, Vol.6, No.2, pp.1737-1744, 2021/2/19.
 [>> See the full list of my publication](https://ozakiryota.github.io/about_me/publication)
 -->
 
-### Journals
+### ジャーナル論文
 - Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.8, No.26, 10.1186/s40648-021-00213-5, 2021/12/20.
   - [Springer](https://robomechjournal.springeropen.com/articles/10.1186/s40648-021-00213-5) 
   - [PDF](https://ozakiryota.github.io/about_me/papers/robomechjournal_2021_12.pdf)
@@ -78,7 +99,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)
   - [PDF](https://ozakiryota.github.io/about_me/papers/transjsme_2019_07.pdf)
 
-### International conferences (w/ peer review)
+### 国際講演会 (査読あり)
 - Ryota Ozaki, ..., "," Proc. of The 2024 Annual Conference of the IEEE Industrial Electronics Society (IECON 2024), 2024/11, accepted.
 - Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   - [Program](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_1.html#tudt19_03)
@@ -92,7 +113,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [IEEE Xplore](https://ieeexplore.ieee.org/document/9026222)
   - [PDF](https://ozakiryota.github.io/about_me/papers/sii_2020.pdf)
 
-### Domestic conferences (w/ peer review)
+### 国内講演会 (査読あり)
 - 尾崎亮太，黒田洋司，「風景知識を学習するカメラ-LiDAR-DNNによる自己姿勢推定」，第26回ロボティクスシンポジア，pp.249-250，2021/3/17．
   - [Program](http://www.robotics-symposia.org/26th/26th_files/Programme_26RS.pdf#page=9)
   - [PDF](https://ozakiryota.github.io/about_me/papers/robosym_2021.pdf)
@@ -103,7 +124,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [Program](http://www.robotics-symposia.org/24th/24th_files/rs24-program_f.pdf#page=13)
   - [PDF](https://ozakiryota.github.io/about_me/papers/robosym_2019.pdf)
 
-### Domestic conferences (w/o peer review)
+### 国内講演会 (査読なし)
 - 尾崎亮太，中山裕，守翔太，本村拓斗，「シミュレータを用いたブルドーザの生産性評価」，ロボティクス・メカトロニクス 講演会 2024（ROBOMECH2024），2024/5/31．
   - [Program](https://robomech.org/2024/wp-content/uploads/2024/04/Robomech2024PG-0422_01.pdf#page=49)
 - 沢藤光，尾崎亮太，本村拓斗，松田豊久，遠嶋雅徳，内田絢斗，白川真一，「内界センサを用いたブルドーザの自己位置推定への機械学習の応用」，2024年度 人工知能学会全国大会（第38回）（JSAI2024），2024/5/31．
@@ -118,18 +139,24 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
 - 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いた6DoF位置姿勢推定」，関東学生会第58回学生員卒業研究発表講演会，2019/3/18．
   - [Program](https://www.jsme.or.jp/event/2018-33222/)
   - [PDF](https://ozakiryota.github.io/about_me/papers/kantojsme_2019.pdf)
+- 恩田和弥，大石朋孝，有馬純平，尾崎亮太，隼田駿大，黒田洋司，「Edge-node Map及び交差点形状マッチングを用いたナビゲーションシステムの開発」，つくばチャレンジシンポジウム，pp.101-106，2019/1/14．
+  - [PDF](https://ozakiryota.github.io/about_me/papers/tsukubachallenge_2018.pdf)
 
-### Others
+### その他
 - 尾崎亮太，「風景知識を学習するDNNを用いたリアルタイム自己姿勢推定」，2020年度修士論文，2021/2/25．
   - [PDF](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf)
 - Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with global planar features in artificial environments," The Fourteenth International Symposium on Mechanics, Aerospace and Informatics Engineering 2019 (ISMAI-14), pp. 215-218, 2019/9/4.
   - [PDF](https://ozakiryota.github.io/about_me/papers/ismai_2019.pdf)
 - 尾崎亮太，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，2018年度卒業論文，2019/2/2．
   - [PDF](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)
-- 恩田和弥，大石朋孝，有馬純平，尾崎亮太，隼田駿大，黒田洋司，「Edge-node Map及び交差点形状マッチングを用いたナビゲーションシステムの開発」，つくばチャレンジシンポジウム，pp.101-106，2019/1/14．
-  - [PDF](https://ozakiryota.github.io/about_me/papers/tsukubachallenge_2018.pdf)
 
-## Patents
+## 特許
+- 未公開.
+- 未公開.
+- 未公開.
+- 未公開.
+- 未公開.
+- 未公開.
 - "Control system for work machine and control method for work machine," Pending.
   - [English](https://patents.google.com/patent/WO2024070520A1/en)
   - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-52162)
@@ -139,8 +166,3 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
 - "System for creating current landform data of work site and method for creating current landform data of work site," Pending.
   - [English](https://patents.google.com/patent/WO2024101391A1/en)
   - [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-70473)
-- Requesting.
-- Requesting.
-- Requesting.
-- Requesting.
-- Requesting.
