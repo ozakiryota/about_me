@@ -18,6 +18,10 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 - 2017/08 - 2018/01&emsp;California State University, Long Beach, USA
   - 交換留学 in Mechanical & Aerospace Engineering
   - GPA: 3.0/4.0
+    - Design Analysis ME Systems I: 3.0
+    - Flight Mechanics: 3.0
+    - Propulsion: 3.0
+    - Power Plant Design: 3.0
 - 2015/04 - 2019/03&emsp;明治大学 理工学部 機械工学科 卒業
   - 学士（工学）
   - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)

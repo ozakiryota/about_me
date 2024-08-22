@@ -18,6 +18,11 @@ description: Profile (Last Updated on August 22, 2024)
 - Aug. 2017 - Jan. 2018&emsp;California State University, Long Beach, USA
   - Exchange Program in Mechanical & Aerospace Engineering
   - GPA: 3.0/4.0
+  - Courses:
+    - Design Analysis ME Systems I: 3.0
+    - Flight Mechanics: 3.0
+    - Propulsion: 3.0
+    - Power Plant Design: 3.0
 - Apr. 2015 - Mar. 2019&emsp;Meiji University, Japan  
   - BEng in Mechanical Engineering
   - GPA: 3.75/4.0
