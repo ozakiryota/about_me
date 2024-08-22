@@ -36,22 +36,25 @@ description: Profile (Last Updated on August 22, 2024)
 
 ## Teaching Experience
 - Apr. 2019 - Sep. 2019&emsp;Meiji University, Japan  
-  Teaching Assistant: Mechanical Engineering Experiments 2
+  Teaching Assistant in "Mechanical Engineering Experiments 2"
 
 ## Awards
-- Mar. 2021&emsp;[Japan Society of Mechanical Engineers (JSME) Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/)  
-Given to one student who published the most papers in each department from The Japan Society of Mechanical Engineers (JSME).
-- Mar. 2019&emsp;[Japan Society of Mechanical Engineers (JSME) Hatakeyama Award](https://www.jsme.or.jp/archive/award/shou4-18.pdf)  
-Given to one student who earned the most credits in each department from The Japan Society of Mechanical Engineers (JSME).
-- Mar. 2018&emsp;[Hasegawa Hisao Award for The Best Presentation of Bachelor’s Thesis](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)  
-Given to three students in each department from Meiji University.
-- Apr. 2017&emsp;[Hasegawa Hisao Award for Outstanding Academic Achievement](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)  
-Given to one student in each department from Meiji University.
+- Mar. 2021&emsp;[Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/), *Japan Society of Mechanical Engineers (JSME)*  
+  Awarded annually to one student from each mechanical engineering department at universities in Japan who has achieved the most research accomplishments.
+- Mar. 2019&emsp;[Hatakeyama Award](https://www.jsme.or.jp/archive/award/shou4-18.pdf), *Japan Society of Mechanical Engineers (JSME)*  
+  Awarded annually to one student from each mechanical engineering department at universities in Japan who earned outstanding credits.
+- Mar. 2018&emsp;[Hasegawa Hisao Award for The Best Presentation of Bachelor’s Thesis](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html), *Meiji University*  
+  Awarded annually to three undergraduate students in Mechanical Engineering at Meiji University.
+- Apr. 2017&emsp;[Hasegawa Hisao Award for Outstanding Academic Achievement](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html), *Meiji University*  
+  Awarded annually to one undergraduate student in Mechanical Engineering at Meiji University.
 
 ## Scholarship
-- Apr. 2019 - Mar. 2021&emsp;[Exemption from Return for Particularly Outstanding Achievement](https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/index.html), *Japan Student Services Organization (JASSO)*
+- Apr. 2019 - Mar. 2021&emsp;[Exemption from Return for Particularly Outstanding Achievement](https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/index.html), *Japan Student Services Organization (JASSO)*  
+  Awarded annually to exceptional graduate students, amounting to 2,213,000 JPY (approximately 19,955 USD at that time).
 - Apr. 2019 - Mar. 2021&emsp;Graduate Research Encouragement Scholarship, *Meiji University*
+  Awarded annually to exceptional graduate students, covering half of the tuition, amounting to 760,000 JPY (approximately 6,853 USD at that time).
 - Apr. 2017 - Mar. 2018&emsp;Academic Achievement Scholarship, *Meiji University*
+  Awarded annually to exceptional undergraduate students, covering a fourth of the tuition, amounting to 282,000 JPY (approximately 2,525 USD at that time).
 
 ## Research Interests and Skills
 * Autonomous Robotics, Machine learning, Self-localization, SLAM, Reinforcement Learning, Object Detection
