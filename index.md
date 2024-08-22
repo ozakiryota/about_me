@@ -51,11 +51,11 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 - [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
 - TOEIC Listening & Reading: 865 points, 2019
 - TOEFL iBT: 62 points, 2015
-- 実用英語技能検定2級
-- 日本漢字能力検定2級
-- 日本商工会議所簿記検定3級
-- 車両系建設機械（整地等）運転
-- 第三級陸上特殊無線技士
+- 実用英語技能検定2級, 2013
+- 日本漢字能力検定2級, 2014
+- 日本商工会議所簿記検定3級, 2012
+- 車両系建設機械（整地等）運転, 2021
+- 第三級陸上特殊無線技士, 2022?
 - 普通自動車第一種運転免許
 
 ## 興味＆スキル
