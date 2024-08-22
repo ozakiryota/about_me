@@ -53,7 +53,7 @@ description: Profile (Last Updated on August 22, 2024)
   Awarded annually to exceptional graduate students, amounting to 2,213,000 JPY (approximately 19,955 USD at that time).
 - Apr. 2019 - Mar. 2021&emsp;Graduate Research Encouragement Scholarship, *Meiji University*
   Awarded annually to exceptional graduate students, covering half of the tuition, amounting to 760,000 JPY (approximately 6,853 USD at that time).
-- Apr. 2017 - Mar. 2018&emsp;Academic Achievement Scholarship, *Meiji University*
+- Apr. 2017 - Mar. 2018&emsp;Academic Achievement Scholarship, *Meiji University*  
   Awarded annually to exceptional undergraduate students, covering a fourth of the tuition, amounting to 282,000 JPY (approximately 2,525 USD at that time).
 
 ## Research Interests and Skills
