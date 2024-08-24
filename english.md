@@ -66,8 +66,10 @@ description: Profile (Last Updated on August 22, 2024)
 * C/C++, Python, ROS, PyTorch, Docker
 
 ## Publications
-### Journals
+### Under Peer Review
 - Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Machine Learning Based Self-Localization Estimation Using Internal Sensors for Automating Bulldozers," *Journal of Field Robotics* (currently under peer review).
+
+### Journals
 - <u>Ryota Ozaki</u>, Naoya Sugiura, and Yoji Kuroda, "[LiDAR DNN based self-attitude estimation with learning landscape regularities](https://robomechjournal.springeropen.com/articles/10.1186/s40648-021-00213-5)," *ROBOMECH Journal*, Vol.8, No.26, Dec. 20, 2021.
 - <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Real-time self-attitude estimation using visual images and/or structures of the environments](https://www.jstage.jst.go.jp/article/transjsme/87/903/87_21-00098/_article/-char/en)," *Transactions of the JSME (in Japanese)*, Vol.87, No.903, pp.21-00098, Dec. 25, 2021 (in Japanese).
 - <u>Ryota Ozaki</u>, and Yoji Kuroda, "[EKF-based self-attitude estimation with DNN learning landscape information](https://doi.org/10.1186/s40648-021-00196-3)," *ROBOMECH Journal*, Vol.8, No.9, Mar. 6, 2021.
