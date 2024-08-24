@@ -24,7 +24,7 @@ description: Profile (Last Updated on August 22, 2024)
     - Power Plant Design: 3.0
 - Apr. 2015 - Mar. 2019&emsp;Meiji University, Japan  
   - BEng in Mechanical Engineering
-  - GPA: 3.75/4.0
+  - GPA: 3.75/4.0 (awarded)
   - Supervisor: Prof. Yoji Kuroda (in [Autonomous Mobile Systems Laboratory](https://amslab.tech/))
   - Thesis: "[Real-Time 6DoF Pose Estimation Using Relative Posture with Respect to Building Walls](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)" (written in Japanese)
 
