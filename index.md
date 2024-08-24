@@ -24,7 +24,6 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
     - Power Plant Design: 3.0
 - 2015/04 - 2019/03&emsp;明治大学 理工学部 機械工学科 卒業
   - 学士（工学）
-  - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
   - GPA: 3.75/4.0
   - 指導教員: 黒田洋司 教授 ([ロボット工学研究室](https://amslab.tech/))
   - 学士論文: "[建造物の壁に対する相対姿勢を用いた6DoF位置姿勢推定](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)"
