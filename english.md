@@ -16,12 +16,13 @@ description: Profile (Last Updated on August 22, 2024)
   * Supervisor: Prof. Yoji Kuroda (in [Autonomous Mobile Systems Laboratory](https://amslab.tech/))
   * Thesis: "[Real-Time Self-Posture Estimation Using DNN Learning Landscape Knowledge](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf)" (written in Japanese)
   * Research activities:
-    * Developed novel self-posture estimation algorithms for mobile robots using:
-      * camera and deep learning.
-      * LiDAR and deep learning.
-      * camera, LiDAR, and deep learning.
-      * camera, deep learning, and common knowledge that planes of buildings are vertical, which is measured by LiDAR.
-    * Developed novel Landmark SLAM (Simultaneous Localization and Mapping) using planar features measured by LiDAR. 
+    * Innovated self-posture estimation algorithms for mobile robots using:
+      *	neural network that takes camera data as input.
+      *	neural network that takes LiDAR data as input.
+      *	neural network that takes camera and LiDAR data as input.
+      *	neural network that takes camera data as input and common LiDAR features.
+    *	Innovated Landmark SLAM (Simultaneous Localization and Mapping) using planar features measured by LiDAR.
+
 * Aug. 2017 - Jan. 2018&emsp;California State University, Long Beach, USA
   * Exchange Program in Mechanical & Aerospace Engineering
   * GPA: 3.0/4.0
@@ -35,17 +36,18 @@ description: Profile (Last Updated on August 22, 2024)
   * Supervisor: Prof. Yoji Kuroda (in [Autonomous Mobile Systems Laboratory](https://amslab.tech/))
   * Thesis: "[Real-Time 6DoF Pose Estimation Using Relative Posture with Respect to Building Walls](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)" (written in Japanese)
   * Research activities:
-    * Develop novel self-posture estimation algorithms for mobile robots based on common knowledge that planes of buildings are vertical.
+    * Innovated self-posture estimation algorithms for mobile robots based on common knowledge that planes of buildings are vertical.
     * Competed in autonomous mobile robot competition.
+
 
 ## Professional Experience
 * Apr. 2021 - Present&emsp;Komatsu Ltd., Japan  
   Automation System Engineer/Researcher 
-  * Leading experimental development of obstacle detection system for dump trucks using cameras and deep learning.
-  * Conducting development of obstacle detection system for dump trucks using LiDARs and radars.
+  * Developing obstacle detection system for dump trucks using cameras and deep learning.
+  * Developing obstacle detection system for dump trucks using LiDARs and radars.
+  * Innovated blade control algorithm for bulldozers using reinforcement learning.
   * Developed bulldozer simulator.
-  * Developed novel blade control algorithm for bulldozers using reinforcement learning.
-  * Developed novel odometry estimation algorithm for bulldozers using machine learning, currently expanding this work.
+  * Innovated odometry estimation algorithm for bulldozers using machine learning.
   * Developed obstacle detection system for bulldozers using LiDARs and radars.
   * Developed mapping system for bulldozers using GNSS and LiDARs.
 
