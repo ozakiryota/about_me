@@ -45,7 +45,7 @@ description: Profile (Last Updated on August 22, 2024)
   * Conducting development of obstacle detection system for dump trucks using LiDARs and radars.
   * Developed bulldozer simulator.
   * Developed novel blade control algorithm for bulldozers using reinforcement learning.
-  * Developed novel odometry estimation algorithm for bulldozers using machine learning, currently expanting this work.
+  * Developed novel odometry estimation algorithm for bulldozers using machine learning, currently expanding this work.
   * Developed obstacle detection system for bulldozers using LiDARs and radars.
   * Developed mapping system for bulldozers using GNSS and LiDARs.
 
