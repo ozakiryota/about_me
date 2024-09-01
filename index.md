@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on August 22, 2024)
+description: Profile (Last Updated on September 1, 2024)
 ---
 
 {: align="center"}
@@ -29,11 +29,13 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
   * 学士論文: "[建造物の壁に対する相対姿勢を用いた6DoF位置姿勢推定](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)"
 
 ## 職歴
-作成中
+* 2021/04 - 現在&emsp;株式会社小松製作所
 
-## 指導経験
+## アシスタント経験
+* 2019/04 - 2020/03&emsp;明治大学  
+  研究補助員: [新エネルギー・産業技術総合開発機構 (NEDO)](https://www.nedo.go.jp/index.html)「[知識の構造化によるロボットの知的行動の発現研究開発](https://www.meiji.ac.jp/osri/topics/2015/6t5h7p00000iybhs.html)」
 * 2019/04 - 2019/09&emsp;明治大学  
-  Teaching Assistant: 機械工学実験2
+  Teaching Assistant: 「機械工学実験2」
 
 ## 表彰
 * 2021/03&emsp;[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
@@ -59,7 +61,7 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 
 ## 興味＆スキル
 * Autonomous Robotics, Machine learning, Self-localization, SLAM, Reinforcement Learning, Object Detection
-* IMU, LiDAR, Camera, GNSS, Mining Machinery (e.g. Bulldozer, Dump Truck)
+* IMU, LiDAR, Camera, GNSS, Mining Machinery (e.g., Bulldozer, Dump Truck)
 * C/C++, Python, ROS, PyTorch, Docker
 
 ## 研究業績
