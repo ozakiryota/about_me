@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on August 22, 2024)
+description: Profile (Last Updated on September 1, 2024)
 ---
 
 {: align="center"}
@@ -37,7 +37,7 @@ description: Profile (Last Updated on August 22, 2024)
   * Thesis: "[Real-Time 6DoF Pose Estimation Using Relative Posture with Respect to Building Walls](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)" (written in Japanese)
   * Research activities:
     * Innovated self-posture estimation algorithms for mobile robots based on common knowledge that planes of buildings are vertical.
-    * Competed in autonomous mobile robot competition.
+    * Competed in autonomous mobile robot competition called [Tsukuba Challenge](https://www.jstage.jst.go.jp/article/jrobomech/32/6/32_1104/_article/-char/ja/).
 
 
 ## Professional Experience
@@ -51,9 +51,11 @@ description: Profile (Last Updated on August 22, 2024)
   * Developed obstacle detection system for bulldozers using LiDARs and radars.
   * Developed mapping system for bulldozers using GNSS and LiDARs.
 
-## Teaching Experience
+## Teaching/Research Assistant Experience
+* Apr. 2019 - Mar. 2020&emsp;[New Energy and Industrial Technology Development Organization (NEDO)](https://www.nedo.go.jp/english/index.html), Japan  
+  Research assistant in project titled "Research and Development of Intelligent Behavior Emergence in Robots through Knowledge Structuring"
 * Apr. 2019 - Sep. 2019&emsp;Meiji University, Japan  
-  Teaching Assistant in "Mechanical Engineering Experiments 2"
+  Teaching assistant in course titled "Mechanical Engineering Experiments 2"
 
 ## Awards
 * Mar. 2021&emsp;[Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/), *Japan Society of Mechanical Engineers (JSME)*  
@@ -75,7 +77,7 @@ description: Profile (Last Updated on August 22, 2024)
 
 ## Research Interests and Skills
 * Autonomous Robotics, Machine learning, Self-localization, SLAM, Reinforcement Learning, Object Detection
-* IMU, LiDAR, Camera, GNSS, Mining Machinery (e.g. Bulldozer, Dump Truck)
+* IMU, LiDAR, Camera, GNSS, Mining Machinery (e.g., Bulldozer, Dump Truck)
 * C/C++, Python, ROS, PyTorch, Docker
 
 ## Publications
