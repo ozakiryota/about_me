@@ -52,10 +52,10 @@ description: Profile (Last Updated on September 1, 2024)
   * Developed mapping system for bulldozers using GNSS and LiDARs.
 
 ## Teaching/Research Assistant Experience
-* Apr. 2019 - Mar. 2020&emsp;[New Energy and Industrial Technology Development Organization (NEDO)](https://www.nedo.go.jp/english/index.html), Japan  
-  Research assistant in project titled "Research and Development of Intelligent Behavior Emergence in Robots through Knowledge Structuring"
+* Apr. 2019 - Mar. 2020&emsp;Meiji University, Japan  
+  Research assistant in project "Research and Development of Intelligent Behavior Emergence in Robots through Knowledge Structuring," organized by [New Energy and Industrial Technology Development Organization (NEDO)](https://www.nedo.go.jp/english/index.html).
 * Apr. 2019 - Sep. 2019&emsp;Meiji University, Japan  
-  Teaching assistant in course titled "Mechanical Engineering Experiments 2"
+  Teaching assistant in course "Mechanical Engineering Experiments 2"
 
 ## Awards
 * Mar. 2021&emsp;[Miura Award](https://www.jsme.or.jp/event_project/award/miura-award/), *Japan Society of Mechanical Engineers (JSME)*  
