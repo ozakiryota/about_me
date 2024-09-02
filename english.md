@@ -11,7 +11,7 @@ description: Profile (Last Updated on September 1, 2024)
 
 ## Education
 * Apr. 2019 - Mar. 2021&emsp;Meiji University, Japan
-  * MEng in Mechanical Engineering
+  * Master of Engineering in Mechanical Engineering
   * GPA: 4.0/4.0
   * Supervisor: Prof. Yoji Kuroda (in [Autonomous Mobile Systems Laboratory](https://amslab.tech/))
   * Thesis: "[Real-Time Self-Posture Estimation Using DNN Learning Landscape Knowledge](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf)" (written in Japanese)
@@ -31,7 +31,7 @@ description: Profile (Last Updated on September 1, 2024)
     * Propulsion: 3.0
     * Power Plant Design: 3.0
 * Apr. 2015 - Mar. 2019&emsp;Meiji University, Japan  
-  * BEng in Mechanical Engineering
+  * Bachelor of Engineering in Mechanical Engineering
   * GPA: 3.75/4.0 (awarded)
   * Supervisor: Prof. Yoji Kuroda (in [Autonomous Mobile Systems Laboratory](https://amslab.tech/))
   * Thesis: "[Real-Time 6DoF Pose Estimation Using Relative Posture with Respect to Building Walls](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)" (written in Japanese)
@@ -53,7 +53,7 @@ description: Profile (Last Updated on September 1, 2024)
 
 ## Teaching/Research Assistant Experience
 * Apr. 2019 - Mar. 2020&emsp;Meiji University, Japan  
-  Research assistant in project "Research and Development of Intelligent Behavior Emergence in Robots through Knowledge Structuring," organized by [New Energy and Industrial Technology Development Organization (NEDO)](https://www.nedo.go.jp/english/index.html).
+  Research assistant in project "Research and Development of Intelligent Behavior Emergence in Robots through Knowledge Structuring," organized by [New Energy and Industrial Technology Development Organization (NEDO)](https://www.nedo.go.jp/english/index.html)
 * Apr. 2019 - Sep. 2019&emsp;Meiji University, Japan  
   Teaching assistant in course "Mechanical Engineering Experiments 2"
 
