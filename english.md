@@ -93,7 +93,7 @@ description: Profile (Last Updated on September 1, 2024)
   * This was also presented in the *2021 IEEE International Conference on Robotics and Automation (ICRA 2021)*.
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Real-time 6DoF localization with relative poses to walls of buildings](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/en)," *Transactions of the JSME (in Japanese)*, Vol.85, No.875, pp.19-00065, Jul. 25, 2019 (in Japanese).
 
-### International Conferences (w/ peer review)
+### International Conferences (w/ Peer Review)
 * <u>Ryota Ozaki</u>, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Dec. ??, 2024 (accepted).
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities](https://ieeexplore.ieee.org/document/9359333)," *IEEE International Conference on Robotics and Automation (ICRA)*, Jun. 1, 2021.
   * [Video Abstract](https://photos.app.goo.gl/Sykqoau5MabDpg1i6)
@@ -101,12 +101,12 @@ description: Profile (Last Updated on September 1, 2024)
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[DNN-Based Self-Attitude Estimation by Learning Landscape Information](https://ieeexplore.ieee.org/document/9382642)," *IEEE/SICE International Symposium on System Integrations (SII)*, pp.733-738, Jan. 13, 2021.
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[6-DoF EKF SLAM with Global Planar Features in Artificial Environments](https://ieeexplore.ieee.org/document/9026222)," *IEEE/SICE International Symposium on System Integrations (SII)*, pp.531-535, Jan. 14, 2020.
 
-### Japanese Domestic conferences (w/ peer review)
+### Japanese Domestic Conferences (w/ Peer Review)
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Camera-LiDAR-DNN-based self-attitude estimation with learning landscape regularities](http://www.robotics-symposia.org/26th/26th_files/Programme_26RS.pdf#page=9)," *26th Robotics Symposia*, pp.294-250, Mar. 17, 2021 (in Japanese).
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Landmark SLAM using planar features in artificial environments](http://www.robotics-symposia.org/25th/25th_files/rs25-program_ver2.pdf#page=6)," *25th Robotics Symposia*, pp.316-317, Mar. 15, 2020 (in Japanese).
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Pose Estimation with Relative Poses to Walls of Buildings](http://www.robotics-symposia.org/24th/24th_files/rs24-program_f.pdf#page=13)," *24th Robotics Symposia*, pp.120-121, Mar. 15, 2019 (in Japanese).
 
-### Japanese Domestic conferences (w/o peer review)
+### Japanese Domestic Conferences (w/o Peer Review)
 * <u>Ryota Ozaki</u>, Shouta Mori, Yutaka Nakayama, and Takuto Motomura, "Evaluating productivity of bulldozer using simulator," *Robotics and Mechatronics Conference*, May 31, 2024 (in Japanese).
 * Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "[Application of Machine Learning to Self-Position Estimation of Bulldozers Using Internal Sensors](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4K3GS1003/_article/-char/en)," *38th Annual Conference of the Japanese Society for Artificial Intelligence*, May 31, 2024 (in Japanese).
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[EKF-SLAM with planar landmarks in artificial environments](https://www.sice-si.org/conf/si2019/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%B3%E7%B4%B0_%E8%A8%82%E6%AD%A3%E7%89%88(20191213).pdf#page=18)," *20th SICE System Integration Division Annual Conference*, pp.165-166, Dec. 12, 2019 (in Japanese).
