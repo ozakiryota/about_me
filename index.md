@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on September 1, 2024)
+description: Profile (Last Updated on September 24, 2024)
 ---
 
 {: align="center"}
@@ -51,7 +51,7 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 ## 資格
 * [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
 * TOEIC Listening & Reading: 865 points, 2019
-* TOEFL iBT: 62 points, 2015
+* TOEFL iBT: 95 points, September 18, 2024
 * 実用英語技能検定2級, 2013
 * 日本漢字能力検定2級, 2014
 * 日本商工会議所簿記検定3級, 2012
