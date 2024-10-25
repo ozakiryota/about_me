@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on September 24, 2024)
+description: Profile (Last Updated on October 25, 2024)
 ---
 
 {: align="center"}
@@ -51,7 +51,7 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 ## 資格
 * [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
 * TOEIC Listening & Reading: 865 points, 2019
-* TOEFL iBT: 95 points, 2024/9/18
+* TOEFL iBT: 98 points, 2024/10/19
 * 実用英語技能検定2級, 2013
 * 日本漢字能力検定2級, 2014
 * 日本商工会議所簿記検定3級, 2012
@@ -108,7 +108,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   * [PDF](https://ozakiryota.github.io/about_me/papers/transjsme_2019_07.pdf)
 
 ### 国際講演会 (査読あり)
-* Ryota Ozaki, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Dec. ??, 2024 (accepted).
+* Ryota Ozaki, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024 (accepted).
 * Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   * [Program](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_1.html#tudt19_03)
   * [PDF](https://ozakiryota.github.io/about_me/papers/icra_2021.pdf)
