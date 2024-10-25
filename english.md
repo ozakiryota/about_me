@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on September 1, 2024)
+description: Profile (Last Updated on October 25, 2024)
 ---
 
 {: align="center"}
@@ -94,7 +94,7 @@ description: Profile (Last Updated on September 1, 2024)
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Real-time 6DoF localization with relative poses to walls of buildings](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/en)," *Transactions of the JSME (in Japanese)*, Vol.85, No.875, pp.19-00065, Jul. 25, 2019 (in Japanese).
 
 ### International Conferences (w/ Peer Review)
-* <u>Ryota Ozaki</u>, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Dec. ??, 2024 (accepted).
+* <u>Ryota Ozaki</u>, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024 (accepted).
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities](https://ieeexplore.ieee.org/document/9359333)," *IEEE International Conference on Robotics and Automation (ICRA)*, Jun. 1, 2021.
   * [Video Abstract](https://photos.app.goo.gl/Sykqoau5MabDpg1i6)
   * This was presented as Conference Option of *IEEE Robotics and Automation Letters (RA-L)*.
