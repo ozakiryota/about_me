@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on October 25, 2024)
+description: Profile (Last Updated on November 8, 2024)
 ---
 
 {: align="center"}
@@ -38,6 +38,7 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
   Teaching Assistant: 「機械工学実験2」
 
 ## 表彰
+* 2024/11&emsp;Best Presentation Award, *Annual Conference of the IEEE Industrial Electronics Society (IECON)*
 * 2021/03&emsp;[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
 * 2019/03&emsp;[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-18.pdf)
 * 2018/10&emsp;[長谷川久夫賞卒業研究中間発表会優秀発表賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
@@ -108,7 +109,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   * [PDF](https://ozakiryota.github.io/about_me/papers/transjsme_2019_07.pdf)
 
 ### 国際講演会 (査読あり)
-* Ryota Ozaki, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024 (accepted).
+* Ryota Ozaki, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024, Best Presentation Award.
 * Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   * [Program](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_1.html#tudt19_03)
   * [PDF](https://ozakiryota.github.io/about_me/papers/icra_2021.pdf)
