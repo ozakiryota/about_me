@@ -76,14 +76,14 @@ Major works:
 Letters (RA-L) with ICRA-2021 option, Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [IEEE Xplore](https://ieeexplore.ieee.org/document/9359333)
   - [PDF](https://ozakiryota.github.io/about_me/papers/ral_2021_02.pdf)
-  - [Video abstract](https://photos.app.goo.gl/Sykqoau5MabDpg1i6)
+  - [Video Abstract](https://photos.app.goo.gl/Sykqoau5MabDpg1i6)
 - Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.?, No.?, 2021/?/? (in press).
 - Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with Global Planar Features in Artificial Environments," Proc. of 2020 IEEE/SICE International Symposium on System Integrations (SII 2020), pp.531-535, 2020/1/14.
   - [Program](https://ras.papercept.net/conferences/conferences/SII20/program/SII20_ContentListWeb_2.html#mo3d_04)
   - [IEEE Xplore](https://ieeexplore.ieee.org/document/9026222)
   - [PDF](https://ozakiryota.github.io/about_me/papers/sii_2020.pdf)
 
-[>> See the full list of my publication](https://ozakiryota.github.io/about_me/publication)
+[>> See the full list of my publications](https://ozakiryota.github.io/about_me/publication)
 -->
 
 ### 査読中
@@ -134,9 +134,8 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   * [PDF](https://ozakiryota.github.io/about_me/papers/robosym_2019.pdf)
 
 ### 国内講演会 (査読なし)
-* 尾崎亮太，中山裕，守翔太，本村拓斗，「シミュレータを用いたブルドーザの生産性評価」，ロボティクス・メカトロニクス 講演会 2024（ROBOMECH2024），2024/5/31．
-  * [Program](https://robomech.org/2024/wp-content/uploads/2024/04/Robomech2024PG-0422_01.pdf#page=49)
-* 沢藤光，尾崎亮太，本村拓斗，松田豊久，遠嶋雅徳，内田絢斗，白川真一，「内界センサを用いたブルドーザの自己位置推定への機械学習の応用」，2024年度 人工知能学会全国大会（第38回）（JSAI2024），2024/5/31．
+* 尾崎亮太，中山裕，守翔太，本村拓斗，「[シミュレータを用いたブルドーザの生産性評価](https://doi.org/10.1299/jsmermd.2024.2A1-B03)」，ロボティクス・メカトロニクス 講演会 2024（ROBOMECH2024），2024/5/31．
+* 沢藤光，尾崎亮太，本村拓斗，松田豊久，遠嶋雅徳，内田絢斗，白川真一，「[内界センサを用いたブルドーザの自己位置推定への機械学習の応用](https://doi.org/10.11517/pjsai.JSAI2024.0_4K3GS1003)」，2024年度 人工知能学会全国大会（第38回）（JSAI2024），2024/5/31．
   * [Program](https://confit.atlas.jp/guide/event/jsai2024/subject/4K3-GS-10-03/advanced)
 * 尾崎亮太，黒田洋司，「人工環境の平面をランドマークとして用いる EKF-SLAM」，第20回計測自動制御学会システムインテグレーション部門講演会（SI2019），pp.165-166，2019/12/12．
   * [Program](https://www.sice-si.org/conf/si2019/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%B3%E7%B4%B0_%E8%A8%82%E6%AD%A3%E7%89%88(20191213).pdf#page=18)
