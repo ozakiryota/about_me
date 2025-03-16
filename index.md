@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on November 8, 2024)
+description: Profile (Last Updated on March 16, 2025)
 ---
 
 {: align="center"}
@@ -109,7 +109,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   * [PDF](https://ozakiryota.github.io/about_me/papers/transjsme_2019_07.pdf)
 
 ### 国際講演会 (査読あり)
-* Ryota Ozaki, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024, Best Presentation Award.
+* Ryota Ozaki, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "[Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning](https://doi.org/10.1109/IECON55916.2024.10905075)," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024, Best Presentation Award.
 * Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   * [Program](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_1.html#tudt19_03)
   * [PDF](https://ozakiryota.github.io/about_me/papers/icra_2021.pdf)
