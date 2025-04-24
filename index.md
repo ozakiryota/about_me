@@ -22,6 +22,7 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
     * Flight Mechanics: 3.0
     * Propulsion: 3.0
     * Power Plant Design: 3.0
+  * [大学へ提出した報告書](https://www.meiji.ac.jp/cip/report/6t5h7p00000gfpad-att/Final_2017_CaliforniaLongBeach_EX2.pdf)
 * 2015/04 - 2019/03&emsp;明治大学 理工学部 機械工学科 卒業
   * 学士（工学）
   * GPA: 3.75/4.0
