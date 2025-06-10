@@ -161,18 +161,13 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   * [PDF](https://ozakiryota.github.io/about_me/papers/bachelor_thesis.pdf)
 
 ## 特許
-* 未公開.
-* 未公開.
-* 未公開.
-* 未公開.
-* 未公開.
-* 未公開.
-* "Control system for work machine and control method for work machine," Pending.
-  * [English](https://patents.google.com/patent/WO2024070520A1/en)
-  * [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-52162)
-* "Work site detection system, and work site detection method," Pending.
-  * [English](https://patents.google.com/patent/WO2024070558A1/en)
-  * [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-52332)
-* "System for creating current landform data of work site and method for creating current landform data of work site," Pending.
-  * [English](https://patents.google.com/patent/WO2024101391A1/en)
-  * [Japanese](https://ipforce.jp/patent-jp-P_A1-2024-70473)
+* 尾崎亮太，峯後俊秀，未公開.
+* 尾崎亮太，峯後俊秀，未公開.
+* 尾崎亮太，本村拓斗，未公開.
+* 尾崎亮太，本村拓斗，松田豊久，「[作業車両の計測システムおよび作業車両の計測方法](https://ipforce.jp/patent-jp-P_A1-2025-35054)」，未請求.
+* 尾崎亮太，本村拓斗，松田豊久，「[作業車両の計測システムおよび作業車両の計測方法](https://ipforce.jp/patent-jp-P_A1-2025-35040)」，未請求.
+* 尾崎亮太，本村拓斗，松田豊久，「[判定システムおよび判定方法](https://ipforce.jp/patent-jp-P_A1-2025-35032)」，未請求.
+* 尾崎亮太，本村拓斗，松田豊久，「[作業車両の移動量推定モデルの生成方法および作業車両の移動量推定モデルの生成装置](https://ipforce.jp/patent-jp-P_A1-2025-34999)」，未請求.
+* 尾崎将崇，峯後俊秀，尾崎亮太，本村拓斗，「[作業機械の制御システム及び作業機械の制御方法](https://ipforce.jp/patent-jp-P_A1-2024-52162)」，未請求.
+* 尾崎将崇，尾崎亮太，佐藤匠真，「[作業現場の検出システム及び作業現場の検出方法](https://ipforce.jp/patent-jp-P_A1-2024-52332)」，未請求.
+* 尾崎将崇，田川芳洋，尾崎亮太，「[作業現場の現況地形データ作成システム及び作業現場の現況地形データ作成方法](https://ipforce.jp/patent-jp-P_A1-2024-70473)」，未請求.
