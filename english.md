@@ -85,6 +85,7 @@ description: Profile (Last Updated on March 16, 2025)
 ## Publications
 ### Under Peer Review
 * Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Machine Learning Based Self-Localization Estimation Using Internal Sensors for Automating Bulldozers," *Journal of Field Robotics* (currently under peer review).
+  * [arXiv](https://www.arxiv.org/abs/2506.07271)
 
 ### Journals
 * <u>Ryota Ozaki</u>, Naoya Sugiura, and Yoji Kuroda, "[LiDAR DNN based self-attitude estimation with learning landscape regularities](https://robomechjournal.springeropen.com/articles/10.1186/s40648-021-00213-5)," *ROBOMECH Journal*, Vol.8, No.26, Dec. 20, 2021.
