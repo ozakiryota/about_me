@@ -118,11 +118,12 @@ description: Profile (Last Updated on March 16, 2025)
 * Kazuya Onda, Tomotaka Oishi, Jumpei Arima, <u>Ryota Ozaki</u>, Toshihiro Hayata, and Yoji Kuroda, "Development of navigation system using Edge-Node Map and intersection shape matching," *Tsukuba Challenge Symposium*, pp.101-106, Jan. 19, 2019 (in Japanese).
 
 ## Patents
-* <u>Ryota Ozaki</u>, and Takuto Motomura, "{NOT YET DISCLOSED}," Pending.
-* <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "{NOT YET DISCLOSED}," Pending.
-* <u>Ryota Ozaki</u>, Toyohisa Matsuda, and Takuto Motomura, "{NOT YET DISCLOSED}," Pending.
-* <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "{NOT YET DISCLOSED}," Pending.
-* <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "{NOT YET DISCLOSED}," Pending.
+* <u>Ryota Ozaki</u>, and Toshihide Mineushiro, "{NOT YET DISCLOSED}," Pending.
+* <u>Ryota Ozaki</u>, and Toshihide Mineushiro, "{NOT YET DISCLOSED}," Pending.
+* <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "[Work vehicle measurement system and work vehicle measurement method](https://patents.google.com/patent/WO2025047890A1/en)," Pending.
+* <u>Ryota Ozaki</u>, Toyohisa Matsuda, and Takuto Motomura, "[Work vehicle measurement system and work vehicle measurement method](https://patents.google.com/patent/WO2025047889A1/en)," Pending.
+* <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "[Determination system and determination method](https://patents.google.com/patent/WO2025047883A1/en)," Pending.
+* <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "[Method for generating movement amount estimation model for work vehicle and device for generating movement amount estimation model for work vehicle](https://patents.google.com/patent/WO2025047880A1/en)," Pending.
 * Masataka Ozaki, Yoshihiro Tagawa, and <u>Ryota Ozaki</u>, "[System for creating current landform data of work site and method for creating current landform data of work site](https://patents.google.com/patent/WO2024101391A1/en)," Pending.
 * Masataka Ozaki, <u>Ryota Ozaki</u>, and Shoma Sato, "[Work site detection system, and work site detection method](https://patents.google.com/patent/WO2024070558A1/en)," Pending.
 * Masataka Ozaki, Toshihide Mineushiro, <u>Ryota Ozaki</u>, and Takuto Motomura, "[Control system for work machine and control method for work machine](https://patents.google.com/patent/WO2024070520A1/en)," Pending.
