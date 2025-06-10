@@ -120,6 +120,7 @@ description: Profile (Last Updated on March 16, 2025)
 ## Patents
 * <u>Ryota Ozaki</u>, and Toshihide Mineushiro, "{NOT YET DISCLOSED}," Pending.
 * <u>Ryota Ozaki</u>, and Toshihide Mineushiro, "{NOT YET DISCLOSED}," Pending.
+* <u>Ryota Ozaki</u>, and Takuto Motomura, "{NOT YET DISCLOSED}," Pending.
 * <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "[Work vehicle measurement system and work vehicle measurement method](https://patents.google.com/patent/WO2025047890A1/en)," Pending.
 * <u>Ryota Ozaki</u>, Toyohisa Matsuda, and Takuto Motomura, "[Work vehicle measurement system and work vehicle measurement method](https://patents.google.com/patent/WO2025047889A1/en)," Pending.
 * <u>Ryota Ozaki</u>, Takuto Motomura, and Toyohisa Matsuda, "[Determination system and determination method](https://patents.google.com/patent/WO2025047883A1/en)," Pending.
