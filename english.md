@@ -10,7 +10,7 @@ description: Profile (Last Updated on July 30, 2025)
 </div>
 
 ## Education
-* 2025/08 - Present&emsp;Georgia Institute of Technology, USA
+* Aug. 2025 - Present&emsp;Georgia Institute of Technology, USA
   * Ph.D. program in Robotics
   * Supervisor: Shreyas Kousik (in [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/))
 * Apr. 2019 - Mar. 2021&emsp;Meiji University, Japan
@@ -99,6 +99,7 @@ description: Profile (Last Updated on July 30, 2025)
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Real-time 6DoF localization with relative poses to walls of buildings](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/en)," *Transactions of the JSME (in Japanese)*, Vol.85, No.875, pp.19-00065, Jul. 25, 2019 (in Japanese).
 
 ### International Conferences (w/ Peer Review)
+* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Oct. ?, 2025, accepted.
 * <u>Ryota Ozaki</u>, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "[Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning](https://doi.org/10.1109/IECON55916.2024.10905075)," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024, Best Presentation Award.
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities](https://ieeexplore.ieee.org/document/9359333)," *IEEE International Conference on Robotics and Automation (ICRA)*, Jun. 1, 2021.
   * [Video Abstract](https://photos.app.goo.gl/Sykqoau5MabDpg1i6)
@@ -112,6 +113,7 @@ description: Profile (Last Updated on July 30, 2025)
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[Pose Estimation with Relative Poses to Walls of Buildings](http://www.robotics-symposia.org/24th/24th_files/rs24-program_f.pdf#page=13)," *24th Robotics Symposia*, pp.120-121, Mar. 15, 2019 (in Japanese).
 
 ### Japanese Domestic Conferences (w/o Peer Review)
+* <u>Ryota Ozaki</u>, Hikaru Sawafuji, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "," *43rd Annual Conference of the Robotics Society of Japan (JSAI)*, Sep. 3, 2025 (in Japanese), to be presented.
 * <u>Ryota Ozaki</u>, Shouta Mori, Yutaka Nakayama, and Takuto Motomura, "[Evaluating productivity of bulldozer using simulator](https://www.jstage.jst.go.jp/article/jsmermd/2024/0/2024_2A1-B03/_article/-char/en)," *Robotics and Mechatronics Conference*, May 31, 2024 (in Japanese).
 * Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "[Application of Machine Learning to Self-Position Estimation of Bulldozers Using Internal Sensors](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4K3GS1003/_article/-char/en)," *38th Annual Conference of the Japanese Society for Artificial Intelligence*, May 31, 2024 (in Japanese).
 * <u>Ryota Ozaki</u>, and Yoji Kuroda, "[EKF-SLAM with planar landmarks in artificial environments](https://www.sice-si.org/conf/si2019/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%B3%E7%B4%B0_%E8%A8%82%E6%AD%A3%E7%89%88(20191213).pdf#page=18)," *20th SICE System Integration Division Annual Conference*, pp.165-166, Dec. 12, 2019 (in Japanese).
