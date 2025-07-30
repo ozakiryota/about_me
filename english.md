@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on March 16, 2025)
+description: Profile (Last Updated on July 30, 2025)
 ---
 
 {: align="center"}
@@ -10,10 +10,13 @@ description: Profile (Last Updated on March 16, 2025)
 </div>
 
 ## Education
+* 2025/08 - Present&emsp;Georgia Institute of Technology, USA
+  * Ph.D. program in Robotics
+  * Supervisor: Shreyas Kousik (in [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/))
 * Apr. 2019 - Mar. 2021&emsp;Meiji University, Japan
   * Master of Engineering in Mechanical Engineering
   * GPA: 4.0/4.0
-  * Supervisor: Prof. Yoji Kuroda (in [Autonomous Mobile Systems Laboratory](https://amslab.tech/))
+  * Supervisor: Yoji Kuroda (in [Autonomous Mobile Systems Laboratory](https://amslab.tech/))
   * Thesis: "[Real-Time Self-Posture Estimation Using DNN Learning Landscape Knowledge](https://ozakiryota.github.io/about_me/papers/master_thesis.pdf)" (written in Japanese)
   * Research activities:
     * Innovated self-posture estimation algorithms for mobile robots using:
@@ -22,7 +25,6 @@ description: Profile (Last Updated on March 16, 2025)
       *	neural network that takes camera and LiDAR data as input.
       *	neural network that takes camera data as input and common LiDAR features.
     *	Innovated Landmark SLAM (Simultaneous Localization and Mapping) using planar features measured by LiDAR.
-
 * Aug. 2017 - Jan. 2018&emsp;California State University, Long Beach, USA
   * Exchange Program in Mechanical & Aerospace Engineering
   * GPA: 3.0/4.0
