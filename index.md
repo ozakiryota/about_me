@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on March 16, 2025)
+description: Profile (Last Updated on July 30, 2025)
 ---
 
 {: align="center"}
@@ -10,6 +10,9 @@ Japanese / <a href="https://ozakiryota.github.io/about_me/english">English</a>
 </div>
 
 ## 学歴
+* 2025/08 - 現在&emsp;Georgia Institute of Technology
+  * Ph.D. program in Robotics
+  * 指導教員: Shreyas Kousik ([Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/))
 * 2019/04 - 2021/03&emsp;明治大学 理工学研究科 機械工学専攻 修了
   * 修士（工学）
   * GPA: 4.0/4.0
