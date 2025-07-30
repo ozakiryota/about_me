@@ -114,6 +114,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   * [PDF](https://ozakiryota.github.io/about_me/papers/transjsme_2019_07.pdf)
 
 ### 国際講演会 (査読あり)
+* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Oct. ?, 2025, accepted.
 * <u>Ryota Ozaki</u>, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "[Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning](https://doi.org/10.1109/IECON55916.2024.10905075)," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, Nov. 5, 2024, Best Presentation Award.
 * <u>Ryota Ozaki</u> and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   * [Program](https://ras.papercept.net/conferences/conferences/ICRA21/program/ICRA21_ContentListWeb_1.html#tudt19_03)
@@ -139,6 +140,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   * [PDF](https://ozakiryota.github.io/about_me/papers/robosym_2019.pdf)
 
 ### 国内講演会 (査読なし)
+* <u>尾崎亮太</u>，沢藤光，本村拓斗，松田豊久，遠嶋雅徳，内田絢斗，白川真一，「車体の移動量がクローラの回転量を上回らない条件を考慮した機械学習ベースのブルドーザの移動量推定」，第43回日本ロボット学会学術講演会（RSJ2025），2025/9/3，発表予定．
 * <u>尾崎亮太</u>，中山裕，守翔太，本村拓斗，「[シミュレータを用いたブルドーザの生産性評価](https://doi.org/10.1299/jsmermd.2024.2A1-B03)」，ロボティクス・メカトロニクス 講演会 2024（ROBOMECH2024），2024/5/31．
 * 沢藤光，<u>尾崎亮太</u>，本村拓斗，松田豊久，遠嶋雅徳，内田絢斗，白川真一，「[内界センサを用いたブルドーザの自己位置推定への機械学習の応用](https://doi.org/10.11517/pjsai.JSAI2024.0_4K3GS1003)」，2024年度 人工知能学会全国大会（第38回）（JSAI2024），2024/5/31．
   * [Program](https://confit.atlas.jp/guide/event/jsai2024/subject/4K3-GS-10-03/advanced)
