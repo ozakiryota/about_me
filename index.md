@@ -91,7 +91,7 @@ Letters (RA-L) with ICRA-2021 option, Vol.6, No.2, pp.1737-1744, 2021/2/19.
 -->
 
 ### プレプリント
-* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Machine Learning Based Self-Localization Estimation Using Internal Sensors for Automating Bulldozers," *Journal of Field Robotics* (currently under peer review).
+* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Machine Learning Based Self-Localization Estimation Using Internal Sensors for Automating Bulldozers."
   * [arXiv](https://www.arxiv.org/abs/2506.07271)
 
 ### ジャーナル論文
