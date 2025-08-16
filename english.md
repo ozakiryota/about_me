@@ -86,7 +86,7 @@ description: Profile (Last Updated on July 30, 2025)
 
 ## Publications
 ### Preprint
-* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Machine Learning Based Self-Localization Estimation Using Internal Sensors for Automating Bulldozers," *Journal of Field Robotics* (currently under peer review).
+* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Machine Learning Based Self-Localization Estimation Using Internal Sensors for Automating Bulldozers."
   * [arXiv](https://www.arxiv.org/abs/2506.07271)
 
 ### Journals
