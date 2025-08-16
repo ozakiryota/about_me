@@ -85,7 +85,7 @@ description: Profile (Last Updated on July 30, 2025)
 * C/C++, Python, ROS, PyTorch, Docker
 
 ## Publications
-### Under Peer Review
+### Preprint
 * Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Machine Learning Based Self-Localization Estimation Using Internal Sensors for Automating Bulldozers," *Journal of Field Robotics* (currently under peer review).
   * [arXiv](https://www.arxiv.org/abs/2506.07271)
 
