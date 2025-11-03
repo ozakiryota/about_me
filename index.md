@@ -1,7 +1,7 @@
 ---
 layout: modified
 title: Profile
-description: Profile (Last Updated on Aug. 16, 2025)
+description: Profile (Last Updated on Nov. 2, 2025)
 ---
 
 {: align="center"}
@@ -103,7 +103,7 @@ Letters (RA-L) with ICRA-2021 option, Vol.6, No.2, pp.1737-1744, 2021/2/19.
 * <u>尾崎亮太</u>，黒田洋司，「[建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)」，日本機械学会論文集，Vol.85，No.875，pp.19-00065，2019/7/25．
 
 ### 国際講演会 (査読あり)
-* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, 2025/10/?, accepted.
+* Hikaru Sawafuji, <u>Ryota Ozaki</u>, Takuto Motomura, Toyohisa Matsuda, Masanori Tojima, Kento Uchida, and Shinichi Shirakawa, "Uncertainty-Aware Self-Localization for Bulldozers Using Machine Learning with Internal Sensor Data," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, 2025/10/16.
 * <u>Ryota Ozaki</u>, Takuto Motomura, Yutaka Nakayama, and Shouta Mori, "[Blade Control for Bulk Dozer Push by Bulldozer using Reinforcement Learning](https://doi.org/10.1109/IECON55916.2024.10905075)," *Annual Conference of the IEEE Industrial Electronics Society (IECON)*, 2024/11/5, Best Presentation Award.
 * <u>Ryota Ozaki</u> and Yoji Kuroda, "[EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities](https://ieeexplore.ieee.org/document/9359333)," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), 2021/6/1.
   * RA-Lの講演会オプションとして発表した．
